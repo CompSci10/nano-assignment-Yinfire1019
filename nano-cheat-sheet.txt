@@ -1,0 +1,8 @@
+ctrl+x : exit nano
+ctrl+w : Search for a string or a regular expression
+ctrl+k : Cut the current line and store it in the cutbuffer
+ctrl+a : Go to beginning of current line
+ctrl+e : Go to end of current line
+Esc g : press the escape key first followed by the letter g
+ESC $
+ESC I
